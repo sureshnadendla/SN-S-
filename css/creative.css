@@ -905,15 +905,17 @@ flip starts here...
 
 
 .home .case-studies {
-	background: #6fd0f7 url(../../../uploads/2015/02/bg_blue1.png) repeat-y center top;
+	/*background: #6fd0f7 url(../../../uploads/2015/02/bg_blue1.png) repeat-y center top;*/
+	background-color: #221D46;
 }
 
 .home .case-studies .parallax_content {
-
+  width: 1100px;
+  margin: 0px auto;
 }
 
 .home .case-studies .front {
-	background: #51c0ed;
+	background: #f05f40;
 	color: #ffffff;
 	padding: 20% 13px;
 	width: 100%;
@@ -932,7 +934,7 @@ flip starts here...
 }
 
 .home .case-studies .back {
-	color: #005d81;
+	color: #f05f40;
 	background: #fff;
 	padding: 26px 13px;
 	width: 100%;
@@ -950,18 +952,22 @@ flip starts here...
 }
 
 .home .case-studies .flip-container:nth-child(2n) .front {
-	background: #29b4ec;
+	background: indigo;
 }
 
 .home .case-studies .flip-container:nth-child(3n) .front {
-	background: #00a8ee;
-}
-
-.home .case-studies .flip-container:nth-child(4n) .front {
 	background: #009edf;
 }
 
-
+.home .case-studies .flip-container:nth-child(4n) .front {
+	background: green;
+}
+.home .case-studies .flip-container:nth-child(5n) .front {
+	background: orange;
+}
+.home .case-studies .flip-container:nth-child(6n) .front {
+	background: #B2336A;
+}
 .home-form {
 	background: #fff url( ../../../uploads/2015/02/birds_bg.png) no-repeat center center fixed;
 	background-size: 100% auto;
@@ -1090,8 +1096,8 @@ flip starts here...
 	}
 	
 	.home .case-studies .flip-container {
-		width: 24%;
-		height:310px;
+		width: 33%;
+		height:200px;
 		float: left;
 		box-sizing: border-box;
 		text-align: center;
