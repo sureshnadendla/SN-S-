@@ -1,0 +1,42 @@
+
+
+.mw-h1 {font-family: 'Open Sans';font-size: 52px; line-height: 64px; color:#ffffff}
+
+.mw-h3 {font-family:'Oswald'; font-size: 36px;line-height: 42px;color:#ffffff}
+
+.center-align{ text-align:center;}
+.left-align{text-align:left;}
+.right-align{text-align:right;}
+.margin5 {margin-left:3px;margin-right:3px;margin-top:3px;}
+.paddingAll10{padding:10px;}
+.padding-left-25{padding-left:25px;}
+.padding-left-50{padding-left:50px;}
+.padding-left-75{padding-left:75px;}
+.font-quote{font-size: 15px; line-height: 19px;font-weight: 400;padding-left:50px;}
+.topcloudMenu {font-size: 15px;color:#ffffff;padding-right:15px;}
+.q_icon_with_title .icon_holder i, .q_font_awsome_icon_square i, .q_font_awsome_icon_stack i {color: #0099ff;}
+.title .title_on_bottom_wrap.show_title_on_bottom .title_on_bottom_holder .title_on_bottom_holder_inner {background-color: #00ACFF;}
+.title_on_bottom_wrap {bottom:80px;}
+.title h1 {margin: 8% 0 0; text-transform:uppercase;font-size:32px;}
+.qbutton {background-color:#FF7F00;}
+.q_font_awsome_icon i { color: #FF7F00;}
+.drop_down .second .inner ul li a, .drop_down .second .inner ul li h5 {font-size:14px;color:#BFBFBD;}
+footer_top .widget.widget_nav_menu li { line-height: 20px;}
+
+.post_text div, p, h4, ul {margin-top: 10px;}
+
+
+h2 {
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+
+.list ul{
+  padding: 0 0 0 15px;
+  list-style-position: initial;
+}
+
+.challenges ul, .results ul {
+  padding: 0 0 0 15px;
+  list-style-position: initial;
+}
