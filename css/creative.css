@@ -910,7 +910,7 @@ flip starts here...
 }
 
 .home .case-studies .parallax_content {
-  width: 1100px;
+  /*width: 1100px;*/
   margin: 0px auto;
 }
 
@@ -960,10 +960,10 @@ flip starts here...
 }
 
 .home .case-studies .flip-container:nth-child(4n) .front {
-	background: green;
+	background: red;
 }
 .home .case-studies .flip-container:nth-child(5n) .front {
-	background: orange;
+	background: green;
 }
 .home .case-studies .flip-container:nth-child(6n) .front {
 	background: #B2336A;
@@ -1096,7 +1096,7 @@ flip starts here...
 	}
 	
 	.home .case-studies .flip-container {
-		width: 33%;
+		width: 25%;
 		height:200px;
 		float: left;
 		box-sizing: border-box;
@@ -1195,6 +1195,7 @@ flip starts here...
 	.home-experience .parallax_content {
 		width: 70% !important;
 		max-width: 1100px;
+		
 	}
 	
 	.home .cloud {
